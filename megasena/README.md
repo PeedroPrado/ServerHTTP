@@ -4,7 +4,7 @@
 Atividade 5 – Server e HTTP request
 
 ## 🚀 Como rodar o projeto
-1- rodar "npm install" na raiz do projeto para instalar a pasta node_module no front e back ao mesmo tempo <br>
+1- rodar "npm install" na raiz do projeto para instalar a pasta node_module no front e back ao mesmo tempo
 2- "npm run dev" na raiz do projeto para inciar o backend e o front ao mesmo tempo.
 
 
